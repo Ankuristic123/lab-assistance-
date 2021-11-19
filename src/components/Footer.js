@@ -8,7 +8,7 @@ function Footer() {
     <div className='footer-container'>
       <section className='footer-subscription'>
         <p className='footer-subscription-heading'>
-          Join the Adventure newsletter to receive our best vacation deals
+          Join the Mediplus newsletter to receive our best Medical labs assistance
         </p>
         <p className='footer-subscription-text'>
           You can unsubscribe at any time.
@@ -39,7 +39,7 @@ function Footer() {
             <h2>Contact Us</h2>
             <Link to='/'>Contact</Link>
             <Link to='/'>Support</Link>
-            <Link to='/'>Destinations</Link>
+            <Link to='/'>Labs Experiment</Link>
             <Link to='/'>Sponsorships</Link>
           </div>
         </div>
@@ -64,11 +64,11 @@ function Footer() {
         <div class='social-media-wrap'>
           <div class='footer-logo'>
             <Link to='/' className='social-logo'>
-              TRVL
+              MEDIPLUS
               <i class='fab fa-typo3' />
             </Link>
           </div>
-          <small class='website-rights'>TRVL © 2020</small>
+          <small class='website-rights'>Mediplus © 2021</small>
           <div class='social-icons'>
             <Link
               class='social-icon-link facebook'
